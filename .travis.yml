@@ -6,6 +6,6 @@ jobs:
        - "3.8"
       arch: amd64
       dist: focal
-      secure: "Ur8OgY4lsPaBsbR0Nur8Rg"
+      secure: "Loet34e7B1m0K1b/MGDe6f27suR25jeVRakW6H4yPNJzz8m1cPmSjbMmuUD+yXXZbpEDNVdiYUEl9eRWnLZQeGCbJqQbJNz6YvuNIBfLstgdcouVHdgekJelF1wUOgvBc4mM+YTZhY5YFGNQc0WdAV6sRl+ZliYUj9cDLEAM6Cjpp/qsFqR5/JbWMoeCMm/mZUGnwOhuHeDKs/u6IpdJsaACw4X/ZTTKTXkI74AFx4Gz++7vSaz9uEuUQn79USf6DnVu04vWXaGytGb0n1vgfoDNMDwmctuKImRqNQhVJNsrjUX3M2jsfM+TBEqxZjfAVuDutTeYocJLPkrEKk/vgPXRMvk0vBf8QTB7LOlMUBZ44Qk9olJWkxEWnRIQ0QX+U7cv0t/MasTxmXvkv9TBxtxXJp7STaJ8SRFz0UHZwUQWWhrJrpxdww5xXIEPb+5G3g/Ae4TAEc1CHFJm8490tnZyXVJB6IIEv4w5KZ7c6r4kPUgzP6/CbdvfkM5seNHuhgV9vHQ2syd822AWluvd392QvGwMNTo+LR0fPNo812kZ6GSNX8FmEiDAUOL3DzvwelnEkbzqHiIiFF2jkfTu29cTuBMUBGHf57dXIIN8pvWgdFUuC5HIBuoc00xXNwH7DZaQZ81tvuxo+Mv7l+EvtA8TIjbTttlyKQQDMaw9pBM="
       script:
         - python hello_world.py
